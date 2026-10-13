@@ -9,6 +9,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Signed updates for WakeBee.</description>
         <language>en</language>
         <item>
+            <title>0.15.1</title>
+            <pubDate>Tue, 13 Oct 2026 09:47:54 +0530</pubDate>
+            <link>https://www.wakebee.app</link>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.15.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html><html lang="en"><meta charset="utf-8"><title>WakeBee 0.15.1</title><h1>WakeBee 0.15.1</h1><ul><li>New bee icon for the app and installer.</li><li>Fixed closed-lid setup trying to unregister a missing helper.</li><li>License errors now show the failed Keychain operation and macOS error code.</li></ul><p>End your session and keep the lid open during installation. Versions 0.14 and earlier require a one-time manual migration.</p><p><a href="https://github.com/jswladitya/WakeBee-Releases/releases/tag/v0.15.1">Installation and migration instructions</a></p></html>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/WakeBee-Releases/releases/download/v0.15.1/WakeBee-0.15.1.zip" length="4450918" type="application/octet-stream" sparkle:edSignature="96t03vaZoDu5le+//ZJTHq+yfy4SFfOdLxvV9mAeQMbTgTK6JlVqAbXu7N2DHk0nAimc2TV7Tp79WJP6JKQrAw=="/>
+        </item>
+        <item>
             <title>0.15.0</title>
             <pubDate>Tue, 13 Oct 2026 09:13:49 +0530</pubDate>
             <link>https://www.wakebee.app</link>
@@ -22,6 +33,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: eg6yZYIyDNE/Sbpf8pUE2Q+5QXpsIGzkTa+KGUTVYK49ck+aKGAMTvl/Ze180H8ajJ3pzxGfnfCZZ8pK4VOoCA==
-length: 2080
+edSignature: KpmuBms1ln0atlkURZcQuGu+KL6EX7JXzq0ckDrUswLor5frXR/pfSSM84BJNKlrYd+oN9g6ZXnVz2H1wT/JCw==
+length: 3377
 -->
