@@ -9,6 +9,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Signed updates for WakeBee.</description>
         <language>en</language>
         <item>
+            <title>0.15.3</title>
+            <pubDate>Tue, 13 Oct 2026 12:15:57 +0530</pubDate>
+            <link>https://www.wakebee.app</link>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.15.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html><html lang="en"><meta charset="utf-8"><title>WakeBee 0.15.3</title><h1>WakeBee 0.15.3</h1><ul><li>A green dot replaces the menu-bar countdown and On text.</li><li>Compact, content-sized session panels and smaller Settings. Quit is directly accessible.</li><li>Closed-lid setup enables the mode after successful macOS approval. Battery use can be configured in one place.</li><li>Helper registration no longer blocks the UI thread, and idle background work is reduced.</li></ul><p>Battery, heat, time, and connection safeguards remain active. End your session and keep the lid open during installation. Versions 0.14 and earlier require a one-time manual migration.</p><p><a href="https://github.com/jswladitya/WakeBee-Releases/releases/tag/v0.15.3">Installation and migration instructions</a></p></html>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/WakeBee-Releases/releases/download/v0.15.3/WakeBee-0.15.3.zip" length="4476166" type="application/octet-stream" sparkle:edSignature="ZyFF9s//nBpBjy1om6DB4k7LkeBV+J7Q5I+DZ1l4XCMLz6nhU8kBRxGYJc/+T7h30FJBDwzg7Xb73zOMN+6QAQ=="/>
+        </item>
+        <item>
             <title>0.15.2</title>
             <pubDate>Tue, 13 Oct 2026 09:56:25 +0530</pubDate>
             <link>https://www.wakebee.app</link>
@@ -30,20 +41,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jswladitya/WakeBee-Releases/releases/download/v0.15.1/WakeBee-0.15.1.zip" length="4450918" type="application/octet-stream" sparkle:edSignature="96t03vaZoDu5le+//ZJTHq+yfy4SFfOdLxvV9mAeQMbTgTK6JlVqAbXu7N2DHk0nAimc2TV7Tp79WJP6JKQrAw=="/>
         </item>
-        <item>
-            <title>0.15.0</title>
-            <pubDate>Tue, 13 Oct 2026 09:13:49 +0530</pubDate>
-            <link>https://www.wakebee.app</link>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><html lang="en"><meta charset="utf-8"><title>WakeBee 0.15.0</title><h1>WakeBee 0.15.0</h1><p>WakeBee now uses its own Apple app and helper identifiers. Saved preferences and Polar activations migrate on first launch.</p><p><strong>Upgrading from 0.14 or earlier requires a one-time manual install.</strong> Keep the lid open, end your session, remove closed-lid setup in the old app’s Settings, disable its Launch at login, and quit it before installing.</p><p>After installing, allow Keychain access if prompted, verify your license online, and set up closed-lid mode and Launch at login again if desired.</p><p><a href="https://github.com/jswladitya/WakeBee-Releases/releases/tag/v0.15.0">Full installation and migration instructions</a></p></html>
-]]></description>
-            <enclosure url="https://github.com/jswladitya/WakeBee-Releases/releases/download/v0.15.0/WakeBee-0.15.0.zip" length="4570498" type="application/octet-stream" sparkle:edSignature="HZ9ObKLRJGrANDW8ODHFdUdLVfdRTVzIZ1CMmqIu3bcqdNCM08/jmux+tueVdp75Yr1crHP38dUQ5IDluxPlAA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 8S+3Nq618IyMcaBwom0ngDTYOrdm4vTNYjyC4h59snLklUokJ+wAzK37GF7OWPE3Xnj0FmJ4EHuQvy+L9gkmDw==
-length: 4597
+edSignature: wnrWZnfZKiPPU8kpVd3NhqqS5ciJlx9cnNgKXIEQ3HHjGnH4Tsz1PfdL70L+JtQGa8fYbiZp9jeN6Wtn0SETDQ==
+length: 4648
 -->
