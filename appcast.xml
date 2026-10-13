@@ -1,6 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>WakeBee Updates</title><link>https://www.wakebee.app</link><description>Signed updates for WakeBee.</description><language>en</language></channel></rss><!-- sparkle-signatures:
-edSignature: ooAzhh2vDG4ZK20Am7uVrX7WEk2zs9Zjxb1zUqhx1f4waIOWQrcUPTo53tdmLhyG+i2RDUQH7laeAwe6Le+tDg==
-length: 546
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>WakeBee Updates</title>
+        <link>https://www.wakebee.app</link>
+        <description>Signed updates for WakeBee.</description>
+        <language>en</language>
+        <item>
+            <title>0.15.0</title>
+            <pubDate>Tue, 13 Oct 2026 09:13:49 +0530</pubDate>
+            <link>https://www.wakebee.app</link>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html><html lang="en"><meta charset="utf-8"><title>WakeBee 0.15.0</title><h1>WakeBee 0.15.0</h1><p>WakeBee now uses its own Apple app and helper identifiers. Saved preferences and Polar activations migrate on first launch.</p><p><strong>Upgrading from 0.14 or earlier requires a one-time manual install.</strong> Keep the lid open, end your session, remove closed-lid setup in the old app’s Settings, disable its Launch at login, and quit it before installing.</p><p>After installing, allow Keychain access if prompted, verify your license online, and set up closed-lid mode and Launch at login again if desired.</p><p><a href="https://github.com/jswladitya/WakeBee-Releases/releases/tag/v0.15.0">Full installation and migration instructions</a></p></html>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/WakeBee-Releases/releases/download/v0.15.0/WakeBee-0.15.0.zip" length="4570498" type="application/octet-stream" sparkle:edSignature="HZ9ObKLRJGrANDW8ODHFdUdLVfdRTVzIZ1CMmqIu3bcqdNCM08/jmux+tueVdp75Yr1crHP38dUQ5IDluxPlAA=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: eg6yZYIyDNE/Sbpf8pUE2Q+5QXpsIGzkTa+KGUTVYK49ck+aKGAMTvl/Ze180H8ajJ3pzxGfnfCZZ8pK4VOoCA==
+length: 2080
 -->
