@@ -9,6 +9,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Signed updates for WakeBee.</description>
         <language>en</language>
         <item>
+            <title>0.15.4</title>
+            <pubDate>Tue, 13 Oct 2026 17:51:05 +0530</pubDate>
+            <link>https://www.wakebee.app</link>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>0.15.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html><html lang="en"><meta charset="utf-8"><title>WakeBee 0.15.4</title><h1>WakeBee 0.15.4</h1><p>The menu-bar icon now takes only the space it needs.</p><ul><li>Removed the empty gap beside the bee when no session is running.</li><li>The green dot and its space appear when a session starts and disappear when it ends.</li></ul><p>End your session and keep the lid open during installation. Versions 0.14 and earlier require a one-time manual migration.</p><p><a href="https://github.com/jswladitya/WakeBee-Releases/releases/tag/v0.15.4">Installation and migration instructions</a></p></html>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/WakeBee-Releases/releases/download/v0.15.4/WakeBee-0.15.4.zip" length="4476120" type="application/octet-stream" sparkle:edSignature="xMh+4f8Vv/5yxVwm5viufiAohwrvXL1WH2Ch4I6A6waPRQkjLzqPdqc6kh8eMkPB6JUNQTeMpKwput13oJmRCg=="/>
+        </item>
+        <item>
             <title>0.15.3</title>
             <pubDate>Tue, 13 Oct 2026 12:15:57 +0530</pubDate>
             <link>https://www.wakebee.app</link>
@@ -30,20 +41,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jswladitya/WakeBee-Releases/releases/download/v0.15.2/WakeBee-0.15.2.zip" length="4471307" type="application/octet-stream" sparkle:edSignature="ZeoyvWQ5k3riKLGeoQYBDtvUax8cGZT7CLwbdnj4M1aurNcanZwNY19tXx6Xg7ygh7PUZNO88kW61VKYS+VdBw=="/>
         </item>
-        <item>
-            <title>0.15.1</title>
-            <pubDate>Tue, 13 Oct 2026 09:47:54 +0530</pubDate>
-            <link>https://www.wakebee.app</link>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>0.15.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><html lang="en"><meta charset="utf-8"><title>WakeBee 0.15.1</title><h1>WakeBee 0.15.1</h1><ul><li>New bee icon for the app and installer.</li><li>Fixed closed-lid setup trying to unregister a missing helper.</li><li>License errors now show the failed Keychain operation and macOS error code.</li></ul><p>End your session and keep the lid open during installation. Versions 0.14 and earlier require a one-time manual migration.</p><p><a href="https://github.com/jswladitya/WakeBee-Releases/releases/tag/v0.15.1">Installation and migration instructions</a></p></html>
-]]></description>
-            <enclosure url="https://github.com/jswladitya/WakeBee-Releases/releases/download/v0.15.1/WakeBee-0.15.1.zip" length="4450918" type="application/octet-stream" sparkle:edSignature="96t03vaZoDu5le+//ZJTHq+yfy4SFfOdLxvV9mAeQMbTgTK6JlVqAbXu7N2DHk0nAimc2TV7Tp79WJP6JKQrAw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: wnrWZnfZKiPPU8kpVd3NhqqS5ciJlx9cnNgKXIEQ3HHjGnH4Tsz1PfdL70L+JtQGa8fYbiZp9jeN6Wtn0SETDQ==
-length: 4648
+edSignature: 2mkahY0rrRWXSmBk416Dxh67GHZTvsomfnpbR7nwH3BISPHtRAIcptlACI+RNwWb35YHMxpw8yE5gOmN8k7HBA==
+length: 4671
 -->
