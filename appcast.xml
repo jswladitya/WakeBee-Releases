@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>WakeBee Updates</title><link>https://www.wakebee.app</link><description>Signed updates for WakeBee.</description><language>en</language></channel></rss><!-- sparkle-signatures:
+edSignature: ooAzhh2vDG4ZK20Am7uVrX7WEk2zs9Zjxb1zUqhx1f4waIOWQrcUPTo53tdmLhyG+i2RDUQH7laeAwe6Le+tDg==
+length: 546
+-->
