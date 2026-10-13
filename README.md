@@ -1,18 +1,14 @@
 # WakeBee
 
-[Download WakeBee 0.15.1 for Mac](https://github.com/jswladitya/WakeBee-Releases/releases/download/v0.15.1/WakeBee-0.15.1.dmg)
+[Download WakeBee 0.15.2 for Mac](https://github.com/jswladitya/WakeBee-Releases/releases/download/v0.15.2/WakeBee-0.15.2.dmg)
 
 [Website](https://www.wakebee.app) · [Buy a lifetime license with Polar](https://buy.polar.sh/polar_cl_HMkc1qGmstC5HhR91Tz3XMqlAbV2MLKp1JvyS2xPMrC)
 
-## Version 0.15.1
+## Version 0.15.2
 
-This release adds the new bee icon throughout the app and installer.
+Updates the app and installer to the latest supplied bee logo. Session controls, licensing, and closed-lid behavior are unchanged from 0.15.1.
 
-Closed-lid setup no longer tries to unregister a helper when macOS reports that it is missing. This fixes the resulting “Operation not permitted” failure in that setup path.
-
-License errors now identify the Keychain operation and macOS error code instead of showing the same “couldn’t save” message for every failure. This improves diagnosis; it does not claim to fix every Keychain access failure.
-
-WakeBee 0.15.0 users can update through **Check for Updates**. End your session and keep the lid open during installation. Checkout and activation continue to use Polar.
+WakeBee 0.15.x users can update through **Check for Updates**. End your session and keep the lid open during installation.
 
 ## One-time upgrade from 0.14 or earlier
 
@@ -21,7 +17,7 @@ This release requires a manual installation because the app’s identity has cha
 1. Keep the lid open. In your existing app, end any running session.
 2. If you previously set up closed-lid mode, go to **Settings → Closed Lid → Advanced → Remove closed-lid setup**. Wait for it to finish before continuing.
 3. Turn off **Launch at login** in the old app, then quit it. Keep a backup until migration is complete.
-4. Download **WakeBee-0.15.1.dmg**, drag **WakeBee.app** into **Applications**, and open it there.
+4. Download **WakeBee-0.15.2.dmg**, drag **WakeBee.app** into **Applications**, and open it there.
 5. Your saved preferences and Polar activation are imported on first launch. Allow Keychain access if macOS asks, and connect to the internet to verify the license. If access is denied, enter your existing license key again.
 6. Set up closed-lid mode again if you use it, approve WakeBee in System Settings when prompted, and enable Launch at login again if desired.
 
