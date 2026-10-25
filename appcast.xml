@@ -9,6 +9,32 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Signed updates for WakeBee.</description>
         <language>en</language>
         <item>
+            <title>0.15.5</title>
+            <pubDate>Sun, 25 Oct 2026 22:15:17 +0530</pubDate>
+            <link>https://www.wakebee.app</link>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.15.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>WakeBee 0.15.5</title>
+<h1>WakeBee 0.15.5</h1>
+<p>Longer closed-lid sessions on a charger and a quieter menu bar.</p>
+<ul>
+  <li>On a charger, closed-lid mode now lasts as long as your session. Choose Unlimited to keep working until you stop, without the previous four-hour cutoff.</li>
+  <li>On battery, choose a time limit up to four hours, including new three-hour and four-hour options. Reconnecting power pauses the battery timer without resetting it.</li>
+  <li>Choose a color or monochrome bee in Settings → General. A green dot continues to indicate an active session.</li>
+  <li>Icon and battery dropdowns now match WakeBee’s glass controls.</li>
+  <li>After a safety stop restores normal sleep settings, the helper requests sleep if the lid is closed.</li>
+</ul>
+<p>Battery, temperature, and connection safeguards remain active. End your session and keep the lid open during installation. Versions 0.14 and earlier require a one-time manual migration.</p>
+<p><a href="https://github.com/jswladitya/WakeBee-Releases/releases/tag/v0.15.5">Installation and migration instructions</a></p>
+</html>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/WakeBee-Releases/releases/download/v0.15.5/WakeBee-0.15.5.zip" length="4519989" type="application/octet-stream" sparkle:edSignature="ZDiybymxduJWt7Dklcw5iQj+msE9n8W681FICTz80hiCqPa3H/KYclzwN7vG44kuzXPPaMuxf0updh8kaFETAw=="/>
+        </item>
+        <item>
             <title>0.15.4</title>
             <pubDate>Tue, 13 Oct 2026 17:51:05 +0530</pubDate>
             <link>https://www.wakebee.app</link>
@@ -30,20 +56,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jswladitya/WakeBee-Releases/releases/download/v0.15.3/WakeBee-0.15.3.zip" length="4476166" type="application/octet-stream" sparkle:edSignature="ZyFF9s//nBpBjy1om6DB4k7LkeBV+J7Q5I+DZ1l4XCMLz6nhU8kBRxGYJc/+T7h30FJBDwzg7Xb73zOMN+6QAQ=="/>
         </item>
-        <item>
-            <title>0.15.2</title>
-            <pubDate>Tue, 13 Oct 2026 09:56:25 +0530</pubDate>
-            <link>https://www.wakebee.app</link>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>0.15.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<!doctype html><html lang="en"><meta charset="utf-8"><title>WakeBee 0.15.2</title><h1>WakeBee 0.15.2</h1><p>Updated app and installer artwork with the latest bee logo. Session controls, licensing, and closed-lid behavior are unchanged.</p><p>End your session and keep the lid open during installation. Versions 0.14 and earlier require a one-time manual migration.</p><p><a href="https://github.com/jswladitya/WakeBee-Releases/releases/tag/v0.15.2">Installation and migration instructions</a></p></html>
-]]></description>
-            <enclosure url="https://github.com/jswladitya/WakeBee-Releases/releases/download/v0.15.2/WakeBee-0.15.2.zip" length="4471307" type="application/octet-stream" sparkle:edSignature="ZeoyvWQ5k3riKLGeoQYBDtvUax8cGZT7CLwbdnj4M1aurNcanZwNY19tXx6Xg7ygh7PUZNO88kW61VKYS+VdBw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 2mkahY0rrRWXSmBk416Dxh67GHZTvsomfnpbR7nwH3BISPHtRAIcptlACI+RNwWb35YHMxpw8yE5gOmN8k7HBA==
-length: 4671
+edSignature: NHJgDp9KdKzwZBvNrfW5yEj4d6yEYNPUwjs2M9yLiD0urW3dV0q/JMOCFE5V1f7i6j3ob0zxCMgm4GLkOJmGDw==
+length: 5337
 -->
